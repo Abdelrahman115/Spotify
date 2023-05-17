@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "spotify-logo-png-spotify-music-app-icon-1024.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
